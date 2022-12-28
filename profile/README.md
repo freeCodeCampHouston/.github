@@ -1,3 +1,6 @@
+
+![fccHouston](https://user-images.githubusercontent.com/34459121/209851453-ec343cfc-ea44-49d2-931e-9b501ac141ad.jpeg)
+
 # freeCodeCampHouston
 Welcome to freeCodeCampHouston, This group is for anyone in the Houston metro area who is interested in programming and is involved in freeCodeCamp, the free online code academy. 
 Check out freeCodeCamp.org. All levels are welcome. We meet to share ideas, network, and learn! Bring your laptop. WiFi is available at our different venues.
