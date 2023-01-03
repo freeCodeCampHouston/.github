@@ -11,3 +11,6 @@ Check out freeCodeCamp.org. All levels are welcome. We meet to share ideas, netw
 <a href="https://join.slack.com/t/freecodecamp-houston/shared_invite/zt-1mbrf6d79-tH~IiBvC22oDwEQcWyD8Ww" target="blank"><img src="https://img.icons8.com/color/48/null/slack-new.png"/></a>
 <a href="https://www.linkedin.com/company/freecodecamphouston/" target="blank"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
 </p>
+
+## Members:
+- [Chandan Kurella (Mobile Dev)](https://github.com/ChandanInTech)
