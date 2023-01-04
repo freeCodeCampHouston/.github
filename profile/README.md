@@ -14,4 +14,5 @@ Check out freeCodeCamp.org. All levels are welcome. We meet to share ideas, netw
 
 ## Members:
 - [Nargiza Ozek (Web Dev)](https://github.com/nargiza-web)
+- [Cameron Sims (Web Dev)](https://github.com/GeorgiaGrace)
 - [Chandan Kurella (Mobile Dev)](https://github.com/ChandanInTech)
